@@ -1,0 +1,3 @@
+1. Store the original inputs.
+2. Check if inputs are strings and convert to floats.
+3. Compare the two inputs and return the larger one in its original data type.

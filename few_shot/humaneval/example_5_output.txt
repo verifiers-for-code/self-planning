@@ -1,0 +1,4 @@
+1. Create a function to check if a number is prime.
+2. Generate a Fibonacci sequence.
+3. Check if each number in the Fibonacci sequence is prime, decrement the counter.
+4. If the counter is 0, return the Fibonacci number.

@@ -1,0 +1,3 @@
+1. Loop the input list.
+2. If the name not start with lowercase letter, add the length of the name to result.
+3. Return the result.

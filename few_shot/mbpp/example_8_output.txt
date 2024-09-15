@@ -1,0 +1,4 @@
+1. Count the number of zeros.
+2. Remove the zeros from the list.
+3. Append the zeros to the end of the list.
+4. Return the list.

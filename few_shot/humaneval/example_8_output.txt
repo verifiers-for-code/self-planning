@@ -1,0 +1,4 @@
+1. Create a frequency dict.
+2. Sort the input list.
+3. Loop the input list, if frequency no lesser than the integer, set result.
+4. Return the result.

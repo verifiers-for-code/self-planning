@@ -1,0 +1,3 @@
+1. Create a pattern that the input character repeats mulitiple times.
+2. Replace the pattern in input string with input character.
+3. Please import inside the function.

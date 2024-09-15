@@ -1,0 +1,4 @@
+1. Create a inner function to check if a number is prime.
+2. Loop all number less than the input that is prime.
+3. Check if the input is divisible by that.
+4. Return the result.

@@ -1,0 +1,2 @@
+1. Calculate the factorial of the input number.
+2. Return the last two digits of it.

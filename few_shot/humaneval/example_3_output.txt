@@ -1,0 +1,2 @@
+1. Check if the file name is valid according to the conditions.
+2. Return "Yes" if valid, otherwise return "NO".

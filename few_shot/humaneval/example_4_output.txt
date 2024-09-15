@@ -1,0 +1,4 @@
+1. Extract the numbers of oranges and apples from given string.
+2. Calculate the sum of oranges and apples.
+3. Deduct the sum from the total number of fruits.
+4. Return the number of mangoes.

@@ -1,0 +1,3 @@
+1. Loop the input list.
+2. If a string is a number, increment it.
+3. Return modified list.
